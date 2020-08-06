@@ -680,6 +680,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-08-05 22:50:47 -0700",
       "minecraft:skeleton": "2020-05-31 18:53:21 -0700",
       "minecraft:hoglin": "2020-07-14 19:58:27 -0700",
       "minecraft:magma_cube": "2020-05-31 23:18:04 -0700",
@@ -1345,6 +1346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2020-08-05 20:40:39 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-06-10 00:28:11 -0700",
@@ -1509,6 +1516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-08-05 20:40:39 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-05-31 19:24:31 -0700"
@@ -1645,6 +1658,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2020-07-14 20:24:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-08-05 20:40:39 -0700"
     },
     "done": true
   },
